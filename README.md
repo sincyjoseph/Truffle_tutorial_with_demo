@@ -77,7 +77,7 @@
 
 13. Open another terminal
 
-		 >>truffle migrate
+		 >>truffle migrate				//if you are already deployed then >>truffle migrate --reset
 
 		 >>truffle console
 
