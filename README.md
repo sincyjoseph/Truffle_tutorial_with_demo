@@ -65,6 +65,6 @@
    
 	 >>instance
    
-   >>instance.setInstructor("Sincy Joseph",22) //To interact with the smart contract use the instance, It will generate a transaction reciept.
+   	 >>instance.setInstructor("Sincy Joseph",22) 	//To interact with the smart contract use the instance, It will generate a transaction reciept.
    
 	 >>instance.getInstructor()
