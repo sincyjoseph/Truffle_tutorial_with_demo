@@ -4,7 +4,7 @@
 
 2. cd in to that folder
 
-3. >truffle init
+3. >>truffle init
 
 4. contract, migration, and test folder generated
 
